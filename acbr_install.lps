@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="25">
+      <Unit0>
+        <Filename Value="acbr_install.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="93"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="acbrmainform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ACBrForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="96"/>
+        <CursorPos X="35" Y="104"/>
+        <UsageCount Value="93"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="acbrfunctions.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="40"/>
+        <CursorPos X="20" Y="70"/>
+        <UsageCount Value="75"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="libbinres.pas"/>
+        <UnitName Value="libBinRes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="65"/>
+        <CursorPos X="30" Y="75"/>
+        <UsageCount Value="74"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="acbrcheckpacksform.pas"/>
+        <ComponentName Value="CheckPacksForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="70" Y="29"/>
+        <UsageCount Value="44"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="acbraboutform.pas"/>
+        <ComponentName Value="AboutForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="24" Y="31"/>
+        <UsageCount Value="48"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\lcl\include\treeview.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1590"/>
+        <CursorPos X="5" Y="1612"/>
+        <UsageCount Value="14"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3551"/>
+        <CursorPos Y="3568"/>
+        <UsageCount Value="14"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\lcl\comctrls.pp"/>
+        <UnitName Value="ComCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3669"/>
+        <CursorPos X="3" Y="3686"/>
+        <UsageCount Value="13"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\rtl-objpas\src\inc\strutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="23" Y="34"/>
+        <UsageCount Value="15"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\Users\arigo\AppData\Local\lazarus\onlinepackagemanager\packages\TDINoteBook\tdiclass.pas"/>
+        <UnitName Value="TDIClass"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="302"/>
+        <CursorPos Y="553"/>
+        <UsageCount Value="7"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\lazarus\lcl\dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="245"/>
+        <CursorPos X="3" Y="261"/>
+        <UsageCount Value="13"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\types.pp"/>
+        <UnitName Value="Types"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="65"/>
+        <CursorPos X="3" Y="83"/>
+        <UsageCount Value="11"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\lab_commons\drawrotatetext_unit.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="11"/>
+        <UsageCount Value="18"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="acbrmainform.lfm"/>
+        <ComponentName Value="ACBrForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1384"/>
+        <CursorPos X="24" Y="1411"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\lazarus\lcl\include\notebook.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="181"/>
+        <CursorPos Y="198"/>
+        <UsageCount Value="8"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\lazarus\lcl\extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="14" Y="17"/>
+        <UsageCount Value="8"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="430"/>
+        <CursorPos Y="460"/>
+        <UsageCount Value="11"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\Users\arigo\AppData\Local\lazarus\onlinepackagemanager\packages\lazrichview\richview.pas"/>
+        <UnitName Value="RichView"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="308"/>
+        <CursorPos X="15" Y="329"/>
+        <UsageCount Value="13"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\Users\arigo\AppData\Local\lazarus\onlinepackagemanager\packages\lazrichview\rvstyle.pas"/>
+        <UnitName Value="RVStyle"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="94"/>
+        <CursorPos X="24" Y="27"/>
+        <UsageCount Value="11"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\Users\arigo\AppData\Local\lazarus\onlinepackagemanager\packages\lazrichview\demo\printfrm.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\lazarus\lcl\include\canvas.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="235"/>
+        <CursorPos Y="253"/>
+        <UsageCount Value="11"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\sysutils\sysansih.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="20"/>
+        <UsageCount Value="11"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\sysutils\sysansi.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="17" Y="56"/>
+        <UsageCount Value="11"/>
+      </Unit24>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
